@@ -1,0 +1,11 @@
+
+.similar-product-details-container{
+    display: flex;
+    height: 280px;
+    width: 440px;
+    border-radius: 8px;
+    background-color: rgb(226, 223, 223);
+    padding: 20px;
+}
+
+

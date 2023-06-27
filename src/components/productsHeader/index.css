@@ -1,0 +1,22 @@
+.dropdown{
+    height: 40px;
+    background-color: #ddd;  
+    min-width: 185px;  
+    border: 0px;
+    border-radius: 5px;
+    color: #5d5c5c;
+}
+.dropdown option {
+    display: block;  
+     font-size: 12px;  
+     background-color: #ddd;  
+     color: black;   
+     padding: 20px;
+     
+}
+.products-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+}

@@ -1,0 +1,27 @@
+.login-form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+}
+.login-website-logo-desktop-image{
+    height: 60px;
+    width: auto;
+    margin-bottom: 30px;
+}
+.password-input-filed{
+    height: 30px;
+    width: 220px;
+    margin: 10px;
+}
+.login-button{
+    height: 30px;
+    width: 220px;
+    margin: 10px;
+}

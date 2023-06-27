@@ -1,0 +1,46 @@
+.nav-header{
+    min-width: 100vw;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.nav-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.website-logo{
+    height: 60px;
+    width: auto;
+}
+
+.nav-menu{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.logout-desktop-btn {
+    height: 40px;
+    width: 100px;
+    background-color: #ff9143;
+    color: white;
+    border: 0px;
+    
+}
+.logout-mobile-btn{
+    height: 40px;
+    width: 40px;
+    border: 0px;
+}
+.logout-icon{
+    height: 40px;
+    width: 40px;
+    background-color: #ff9143;
+    color: white;
+    border: 0px;
+}

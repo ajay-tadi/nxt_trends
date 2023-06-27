@@ -1,0 +1,14 @@
+.thumbnail{
+    height: 270px;
+    width: 220px;
+}
+.product-item{
+    margin: 20px;
+    background-color: rgb(218, 218, 218);
+    border-radius: 11px;
+    padding: 20px;
+    width: 220px;
+}
+.title{
+    font-size: 20px;
+}

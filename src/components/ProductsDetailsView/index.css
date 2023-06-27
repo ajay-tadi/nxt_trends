@@ -1,0 +1,20 @@
+.product-details-container{
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+}
+.product-image{
+    height: 500px;
+    width: auto;
+    border-radius: 9px;
+    margin-right: 20px;
+}
+.rating-container{
+    display: flex;
+    flex-direction: row;
+}
+.similar-products-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
