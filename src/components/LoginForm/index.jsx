@@ -3,9 +3,12 @@ import { useNavigate,Navigate } from 'react-router-dom'
 import Cookies from 'js-cookie'
 import './index.css'
 
+// username: rahul
+// password: rahul@2021
+
 const LoginForm = () => {
   
-  const userObj = {username:"",password:""}
+  const userObj = {username:"rahul",password:"rahul@2021"}
   const [userDetailsObj,setUserDetails] = useState(userObj);
   const [errorObj,setError] = useState({errorState:false,errorM:''})
   const {errorState,errorM} = errorObj
