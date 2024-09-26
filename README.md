@@ -4,6 +4,7 @@
 **Home:**
 ![image](https://github.com/user-attachments/assets/288003d5-c524-4008-962f-afc2fe112ac8)
 
+In this project have focused on routing.
 
 # Getting Started with Create React App
 
